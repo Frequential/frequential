@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 - 🌱 Looking to learn Python, Rust and C# soon.
 - 📫 Reach me at [Twitter](https://twitter.com/LutzSeverino) or by [email](mailto:jasperlutzseverino@gmail.com).
 
-![stats](https://github-readme-stats.vercel.app/api?username=Frequential&show_icons=true&theme=github_dark&custom_title=Estad%C3%ADsticas%20de%20Jasper%20Lutz%20Severino) 
+![stats](https://github-readme-stats.vercel.app/api?username=Frequential&show_icons=true&theme=city_lights&custom_title=Estad%C3%ADsticas&border_color=2b3138) 
 
 <!--
 **Frequential/frequential** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
