@@ -1,8 +1,8 @@
 # Jasper Lutz Severino 
 Welcome to my GitHub profile!
-- 🔭 I focus primarly on Java backend, but I'm also working into improving my frontend skills. 
-- 🌱 Looking to learn Python, Rust and C++ soon.
-- 📫 Reach me at [Twitter](https://twitter.com/LutzSeverino) or by [email](mailto:jasperlutzseverino@gmail.com).
+- 🔭 I focus primarily on Java development and open-source. I build tools for everyone to use, enjoy and contribute to!
+- 🌱 Python, C++ and Rust come next.
+- 📫 Reach me at [Twitter](https://twitter.com/LutzSeverino) or via [email](mailto:jasperlutzseverino@gmail.com).
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Frequential&show_icons=true&theme=city_lights&custom_title=Estad%C3%ADsticas&border_color=2b3138) 
 
