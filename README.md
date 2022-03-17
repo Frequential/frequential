@@ -4,7 +4,7 @@ Jasper Lutz Severino
 
 Welcome to my GitHub profile! I'm a backend developer from Spain, though I also do some graphic design and frontend work.
 
-I specialize in backend development which is my preference, but I'm steadily trying to participate in the frontend field to try to combine graphic design with programming.
+I specialize in backend development (which is my preference), but I'm steadily trying to participate in the frontend field to try to combine graphic design with programming.
 
 ###### 📫 [twitter](https://twitter.com/LutzSeverino) · [email](mailto:jasperlutzseverino@gmail.com)
 
