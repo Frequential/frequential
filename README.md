@@ -5,6 +5,7 @@
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" >
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flate&logo=mongodb&logoColor=white" >
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1" >
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" >
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" >
     <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" >
     <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" >
