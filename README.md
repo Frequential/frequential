@@ -2,7 +2,7 @@
   <h1>Jasper Lutz Severino</h1>
 
   <div>
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" >
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=oracle&logoColor=white" >
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flate&logo=mongodb&logoColor=white" >
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1" >
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" >
