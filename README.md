@@ -1,9 +1,3 @@
-# Jasper Lutz Severino
-
-Welcome to my GitHub profile! I'm a backend developer from Spain, though I also do some graphic design and frontend work.
-
-I specialize in backend development (which is my preference), but I'm steadily trying to participate in the frontend field to try to combine graphic design with programming.
-
 <p>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=oracle&logoColor=white" >
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flate&logo=mongodb&logoColor=white" >
@@ -24,6 +18,12 @@ I specialize in backend development (which is my preference), but I'm steadily t
   <a href="mailto:jasperlutzseverino@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/jasperlutzseverino-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://twitter.com/LutzSeverino"><img alt="Twitter" src="https://img.shields.io/badge/LutzSeverino-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white"></a>
 </p>
+
+![lutzseverino](https://user-images.githubusercontent.com/28309837/236696167-c77140ab-5900-4e49-b1ec-152c8092cd75.png)
+
+Welcome to my GitHub profile! My name is Jasper Lutz Severino, and I'm a backend developer from Spain. Although my expertise lies in backend development, I also have experience in graphic design and frontend work. 
+
+As you will discover while browsing through my profile, I am an independent developer and try to handle most tasks by myself. However, I also work effectively in teams and enjoy collaborating with others!
 <!--
 **Frequential/frequential** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
