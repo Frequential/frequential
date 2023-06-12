@@ -21,9 +21,10 @@
 
 ![lutzseverino](https://user-images.githubusercontent.com/28309837/236696167-c77140ab-5900-4e49-b1ec-152c8092cd75.png)
 
-Welcome to my GitHub profile! My name is Jasper Lutz Severino, and I'm a backend developer from Spain. Although my expertise lies in backend development, I also have experience in graphic design and frontend work. 
+Welcome to my GitHub profile! My name is **Jasper Lutz Severino**, and I'm a developer from **Spain**. I'm most experienced in **backend development**, but I'm also interested in frontend work and graphic design. 
 
-As you will discover while browsing through my profile, I am an independent developer and try to handle most tasks by myself. However, I also work effectively in teams and enjoy collaborating with others!
+I'm currently being employed at **Volkswagen Group Services Barcelona** as a **Java developer**.
+
 <!--
 **Frequential/frequential** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
